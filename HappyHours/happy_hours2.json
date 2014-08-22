@@ -1,0 +1,1859 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0223723, 
+                    38.8944693
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "701 Pennsylvania Ave NW Washington DC 20004", 
+                "Bar": "701", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$6 all wines $7 signature cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.053916, 
+                    38.9035
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2512 L St NW Washington DC 20037", 
+                "Bar": "51st State Tavern", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3.50 Bud light drafts $3.75 Domestic longneck bottles $3.75 51st Amber drafts $4 Yuengling drafts $4 Rail drinks $5 house wines $2 off specialty cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0251566, 
+                    38.9020106
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "901 New York Avenue NW Washington DC 20001", 
+                "Bar": "Acadiana", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$5 specialty cocktails $5 wine selections $5 drafts and $5 bar bites appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.038135, 
+                    38.910676
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1527 17th Street NW Washington DC 20034", 
+                "Bar": "Agora", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-7pm", 
+                "Specials": "$4 cheeses and spreads $5 flatbreads $4 beers $5 rails $6 wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0302118, 
+                    38.8949053
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1300 Pennsylvania Ave NW Washington DC 20004", 
+                "Bar": "Aria Pizzeria", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "Mondays and Tuesdays: Half price pitchers of beer Wednesdays: Half price frozen margaritas Thursdays: Pizza Party $14 large cheese $17 large pepperoni Fridays: $20 bottomless pints or house wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.057811, 
+                    38.935263
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3427 Connecticut Ave NW Washington DC 20008", 
+                "Bar": "Atomic Billiards", 
+                "Days": "Everyday", 
+                "Hours": "4-8pm", 
+                "Specials": "$3 Bud/Miller Light $4 Fat Tire Yuengling & Rail Cocktails | Mondays: $3 Bud/Bud Lite $5 SoCo Shots pool tournament starts at 7pm Tuesdays: $6 Bacardi Wednesdays: $5 Sailor Jerry's $4.50 select Craft Bottles $4.50 bartenders choice shooters Thursdays: $5 Guiness Fridays: $6 Jack Daniels Saturdays $6 Stoli Sundays: $4.50 Magic Hat", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.06422599999999, 
+                    38.905423
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3241 M ST NW Washington DC 20007", 
+                "Bar": "Bandolero", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-7pm; Friday 11am-7pm", 
+                "Specials": "$4 Tecate (can) $4 PBR (can)  $4 El Jjimador (shot blanco or reposado) $5 Pacifico draft $5 Wycliff Sparkling Brut $6 Clasico Margarita $6 Anterra Pinot Grigio $6 Santa Luz Cabernet Sauvignon $5 each Guacamole; Salsa Trio; Nachos; Pork or Chicken Tacos; Campechano Tlayunda", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.05981489999999, 
+                    38.9012874
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3000 K St NW Washington DC 20007", 
+                "Bar": "Bangkok Joe's", 
+                "Days": "Everyday", 
+                "Hours": "5-7pm", 
+                "Specials": "$3-$5 small plates $2 skewers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.021602, 
+                    38.903508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1015 1/2 7th St NW Washington DC 20001", 
+                "Bar": "Bar 7", 
+                "Days": "Wednesday-Saturday", 
+                "Hours": "Wednesday 5-9pm; Thursday: 5-7pm; Friday 5-7pm; Saturday 7-10pm", 
+                "Specials": "$5 entrees $5 cocktails $3 beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0379883, 
+                    38.9040814
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1101 17th St NW Washington DC", 
+                "Bar": "Barcode", 
+                "Days": "Monday-Saturday", 
+                "Hours": "3-7pm", 
+                "Specials": "1/2 price beer 1/2 wine by the glass", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.038048, 
+                    38.90703000000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1615 Rhode Island Avenue Northwest Washington DC 20036", 
+                "Bar": "Beacon", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$10-$3 countdown specials: both drinks and small plates", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0440015, 
+                    38.9215171
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1841 Columbia Road NW Washington DC 20009", 
+                "Bar": "Bedrock Billiards", 
+                "Days": "Everyday", 
+                "Hours": "4-8pm", 
+                "Specials": "$3.50 Rail Drafts $3 312 Urban Wheat $3.50 Devils Backbone Vienna Lager; Sundays: $5 whiskey 1-7pm", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0287276, 
+                    38.91727530000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1211 U St. Northwest Washington DC 20009", 
+                "Bar": "Ben's Next Door", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3 drafts $6 rails $5 wine $3.50 fries & rings $5.50 all dogs/half-smokes/chili Wednesdays: 50% bottles of wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04838989999999, 
+                    38.9102908
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1523 22nd St NW Washington DC 20037", 
+                "Bar": "Bier Baron", 
+                "Days": "Monday-Thursday", 
+                "Hours": "5-7pm", 
+                "Specials": "$10 Burger & Any Draft Beer", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042316, 
+                    38.908494
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1345 Connecticut Ave NW Washington DC 20036", 
+                "Bar": "Big Hunt", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$2.50 PBR/Bud Lite/Lite Ass/Bad Ass $3 rails $1 off all other drinks; 7-11pm daily specials- Mondays: 1/2-price pizza; Tuesdays: 20 cent wings; Wednesday: 1/2 price burgers; Thursday: $3 PBR Bad Ass Amber Lite Ass Brew Big Hunt Lager; Friday: $1 tacos; Sunday all day: $3 pints of PBR/Lite Ass/Bad Ass 20% service industry discount", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042316, 
+                    38.908494
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1345 Connecticut Ave NW Washington DC 20036", 
+                "Bar": "Big Hunt", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$2.50 PBR/Bud Lite/Lite Ass/Bad Ass $3 rails $1 off all other drinks; 7-11pm daily specials- Mondays: 1/2-price pizza; Tuesdays: 20 cent wings; Wednesday: 1/2 price burgers; Thursday: $3 PBR Bad Ass Amber Lite Ass Brew Big Hunt Lager; Friday: $1 tacos; Sunday all day: $3 pints of PBR/Lite Ass/Bad Ass 20% service industry discount", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0443701, 
+                    38.9039479
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1919 L St NW Washington DC 20036", 
+                "Bar": "Black Rooster Pub", 
+                "Days": "Monday-Saturday", 
+                "Hours": "5-8p; Saturday 8pm-2am", 
+                "Specials": "$3 PBRs $4.50 rails $1.50 off drafts and wine glasses; Saturday $5 Port City Optimal Wit Kentucky Mules & Fireballs", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0403429, 
+                    38.901004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1716 I St NW Washington DC 20006", 
+                "Bar": "Bottom Line", 
+                "Days": "Everyday", 
+                "Hours": "4pm-close", 
+                "Specials": "Monday: $2.50 Miller Lite Bottles $3.50 Blue Moon Drafts $3.50 Wing; and Half-Price Burgers; Tuesday: All Sam Adams $3.50 $3 Rail drinks $3 appetizer menu; Wednesday: $3 Corona $3 Margaritas $3 Rail drinks Free Taco bar at 4pm 25% off Mexican food; Thursday: $2.50 Bud and Bud Light bottles $3 rail drinks $3.50 baskets of tater tots; Friday: $1 (4-7pm)/$2 (7-9pm)/$2.50 (9-1am)/$1 (1am-close) Miller Lite $3 rail drinks $3.50 baskets of wings; Saturday: $2.50 Bud and Bud Light bottles $10 pitchers of Bud LIght $3.50 baskets of wings or tater tots; Sunday 11:30am-close: $2.50 Miller Lite Bottles $3.50 Blue Moon Drafts $3.50 Wings and Half-Price Burgers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04158369999999, 
+                    38.9202651
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2321 18th St NW Washington DC 20009", 
+                "Bar": "Bourbon", 
+                "Days": "Monday-Friday", 
+                "Hours": "6-7:30pm", 
+                "Specials": "$3 Drafts; Specials on Selected Bourbons; Cocktail Specials", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.8836698, 
+                    33.800191
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": " Coors Light", 
+                "Bar": "Buffalo Billiards", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "\"$3 Miller Lite", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.064639, 
+                    38.909388
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1522 Wisconsin Ave NW Washington DC 20007", 
+                "Bar": "Cafe Bonaparte", 
+                "Days": "Everyday", 
+                "Hours": "5-7pm", 
+                "Specials": "1/2-price seasonal cocktails 1/2-price domestics $2 imports $5 house wine", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042289, 
+                    38.908449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1343 Connecticut Ave. NW Washington DC 20036", 
+                "Bar": "Cafe Citron", 
+                "Days": "Monday-Saturday", 
+                "Hours": "5-8pm", 
+                "Specials": "Monday: All you can drink select drinks and mojitos $12 per hour; $3 empanadas tacos chips and salsa; Tuesday: $10 one drink and appetizer $25 sangria $30 mojito pitchers; Wednesday: Free salsa class 7:30pm $4 Dos Equis $6 mojito; Thursday: Free flamenco show 7:30 and 8:30 $4 Mahou beer all night $5 caipirinhas; Friday: Free salsa class at 9pm; 4pm-12am $5 Latin American beers mojitos sangria martinis $3.64 Corona $4.56 Negro Modelo $3.64 Cuervo shots $4.56 wines $3 empanadas; Saturday: Free salsa class 8pm; $5 Mahou beer $4 Corona and margaritas $5 martinis sangria mojitos", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.031671, 
+                    38.91542099999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1847 14th Street NW Washington DC 20009", 
+                "Bar": "Cafe Saint-ex", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-10pm", 
+                "Specials": "$1 off rail $1 beer", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03917, 
+                    38.9010729
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "839 17th Street Northwest Washington DC 20006", 
+                "Bar": "Cafe Soleil", 
+                "Days": "Monday-Friday", 
+                "Hours": "4:30-8p", 
+                "Specials": "$3 all domestics $5 chalkboard wines $5-$6 cocktails $6-$8 appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0032149, 
+                    38.8874343
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "229 Pennsylvania SE Washington DC 20003", 
+                "Bar": "Capitol Lounge", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "Everyday: $1 off all drinks; Monday all night: 1/2-price pizzas; Tuesday all night: 25 cent wings; Wednesday 4-8pm: $1 Tacos $4.50 Coronas Negra Modelos and margaritas; Thursday 4-8pm: $2 sliders all night $13.25 pitchers; Friday 8-11pm 25 cent wings; all night: $5 Fireball", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0509781, 
+                    38.9049295
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2350 M Street NW Washington DC 20037", 
+                "Bar": "Caucus Room", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "$5 drafts $6 house wine $7 sparkling wine $5 select cocktails $6-$8 small plates", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.9953419, 
+                    38.88189
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "527 8th St SE Washington DC", 
+                "Bar": "Cava Mezze", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "$3-$4 appetizers $4 wine and beer $5 margaritas $6 mojitos", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.063129, 
+                    38.902812
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3205 K St NW Washington DC 20007", 
+                "Bar": "Chadwick's", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "Everyday: $2.50 domestic bottles $3 house wine & rail drinks $3.50 margaritas 1/2 price wings & potato skins; Monday: 1/2 burgers; Wednesday 7pm-close: $3 pints $3.50 wines by the glass; Thursday 7pm-close: $3 Corona; Friday all day: $3 Bud/Miller Lite; Saturday 7pm-close: $2.50 Bud/Miller Lite", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0298414, 
+                    38.8966779
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1301 Pennsylvania Ave NW Washington DC 20004", 
+                "Bar": "Chef Geoff's", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-7pm", 
+                "Specials": "$4.95 drafts $8.95 33.8 oz supermugs $5.95 wine $5-$8 appetizers $6-$8 burgers $8.95 pizzas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.05769599999999, 
+                    38.935065
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3421 Connecticut Avenue NW Washington DC 20008", 
+                "Bar": "Cleveland Park Bar", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "Everyday 5-7pm: $3 Miller Lite & Yuengling $3 rails $4 house wine; Monday: 5pm-12am: 1/2-price burgers/wings; 10pm-close: $3 PBR and Miller Lite; Tuesday: 5pm-12am: Buy 1 pizza get 1 for $2 10pm-close $4 Yuengling & Coors; Wednesday:  5pm-12am: 1/2-price all wine bottles; 10pm-close: $4 Heineken & Miller Lite; Thursday: 5pm-12am: 25% off all pastas; 10pm-close: $4 Heineken & Coors Lite; Friday: 5-7pm $2 tacos", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0217929, 
+                    38.8990631
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "707 7th Street NW Washington DC 20001", 
+                "Bar": "Clyde's", 
+                "Days": "Everyday", 
+                "Hours": "3-6pm & 10pm-close", 
+                "Specials": "Everyday: $5 Drink & Wine Specials & Yeungling $2.50 PBR $4 Coors; Sunday-Wednesday: 3-6p & 11pm-1am: 1/2-price all raw bar items;  10pm-1am: $8 late night bar food menu; 10pm-close: $5 Jamesons Fireballs & Patron XO Cafe; Thursday-Saturday: 1/2 price all raw bar items", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02523529999999, 
+                    38.897361
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "929 F Street NW Washington DC 20004", 
+                "Bar": "Co Co Sala", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$5-10 Appetizers $4 Amstel Light & Heineken $6 house wine $8 signature cocktails $9 Prosecco w/chocolate", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0264655, 
+                    38.8995914
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1000 H St NW Washington DC 20001", 
+                "Bar": "Cure", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "1 for $5 or 3 for $12 small plates $4 select canvas wines & draft beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0419585, 
+                    38.907845
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1317 Connecticut Ave NW Washington DC 20008", 
+                "Bar": "DGS Delicatessen", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$4 beer $5 appetizers $6 wine $7 cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.05801220000001, 
+                    38.9353544
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3435 Connecicut Ave NW Washington DC 20008", 
+                "Bar": "Dino", 
+                "Days": "Everyday", 
+                "Hours": "open-7pm", 
+                "Specials": "$3 off cocktails wines beer & antipasti $6 daily special cocktails; All night: $15 burger & beer; Sundays: $9 bottomless bloodys & mimosas w/ brunch", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.072723, 
+                    38.933274
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3238 Wisconsin Avenue NW Washington DC 20016", 
+                "Bar": "District 2", 
+                "Days": "Monday-Thursday and Friday", 
+                "Hours": "various", 
+                "Specials": "\"Monday all day: $4 rail drinks $3 house wines $4 drafts $2 sliders $6 nachos $6 hummus; Tuesday 4-7pm: $4 drafts and rails $3 house wines; Thursday 4-7pm: $4 rail drinks $3 house wines $4 drafts $2 \"\"famous\"\" mug sliders $2 BBQ pulled pork sliders $6 Johnny's nacho's $6 hummus I 1/2 price bottles of wine; Friday all day: $6 Stoli/flavored vodka drinks (add Red Bull for $3) $4 Miller Lite\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02155499999999, 
+                    38.896522
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "509 7th Street Washington DC 20004", 
+                "Bar": "District Chophouse", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3.25 handcrafted brew $3.75 specialty & seasonal $5 wine $5 premium well drinks $6 all cocktail menu drinks $7 food selections", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02497090000001, 
+                    38.918465
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2106 Vermont Ave NW Washington DC 20001", 
+                "Bar": "Duffy's", 
+                "Days": "Tuesday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3 Miller lite draft & bottle $4 PBR Tall Boy Yuengling house wines & rail drinks $5 rum & cokes", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.024402, 
+                    38.897848
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "610 9th Street NW Washington DC 20004", 
+                "Bar": "Ella's Pizza", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "\"$4 sangria ($18 pitchers) $4 wines $1 off all full size pints $6 rail drinks $6 happy hour 7\"\" pizzas $7 appetizers\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0356173, 
+                    38.902175
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1520 K Street NW Washington DC 20005", 
+                "Bar": "Fast Eddie's", 
+                "Days": "Monday-Friday & Sunday", 
+                "Hours": "all day", 
+                "Specials": "Monday: $5 burgers; Tuesday: 3-8pm $2 domestics $3 microbrews $5 sliders (excluding crab); Wednesday 3-8pm: $3 drafts and bottles $4 imports $3.50 rails $1.50 Miller Lite $5 'Mile High' nachos; Thursday: 50 cent wings & gator wings; Friday $5 chicken skewers; Sunday: 1/2 price pizzas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02784249999999, 
+                    38.8993545
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "775 12th St NW Washington DC 20005", 
+                "Bar": "Fire & Sage", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "1/2 price sliders $3 wings (6) $2 off any starter $6 rails $3.50 drafts $2 off martinis $2 off 6/9 oz wine by the glass; Sundays: 1/2-price desserts weekly wine specials 5pm-close", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04520099999999, 
+                    38.9026581
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2021 K Street NW Washington D.C. 20006", 
+                "Bar": "Froggy Bottom", 
+                "Days": "Monday-Saturday", 
+                "Hours": "4-7pm", 
+                "Specials": "$4 beers (excluding Guinness) $5 wine (excluding sparkling) $6 rail drinks $7 bartender's creations; 11pm-close: $1 off drafts Fireball & Jameson", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.044084, 
+                    38.90844
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1333 New Hampshire Avenue NW Washington DC 20036", 
+                "Bar": "Front Page", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-8pm", 
+                "Specials": "$3 Miller Lite Yuengling Drafts & rail drinks $4 house wines $5 appetizer menu", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03236179999999, 
+                    38.9028402
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1401 K St NW Washington DC 20005", 
+                "Bar": "Fujimar", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "$5-$7 Cocktails 1/2 price beer and wines by the glass $4-$8 small plates rolls and ceviche shots", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0420457, 
+                    38.9079229
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1323 Connecticut Ave NW Washington DC 20036", 
+                "Bar": "GBD", 
+                "Days": "Tuesday-Friday", 
+                "Hours": "4:30-7pm", 
+                "Specials": "$3 select beer and wine $3 punch", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0322122, 
+                    38.9115769
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1610 14th Street NW Washington DC 20009", 
+                "Bar": "Ghibellina", 
+                "Days": "Everyday", 
+                "Hours": "4:30-6:30pm", 
+                "Specials": "$6 cocktails $3-4 draft beers $5 glass wines", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0210507, 
+                    38.8975697
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "601 F Street NW Washington DC 20004", 
+                "Bar": "Greene Turtle", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-6pm", 
+                "Specials": "Everyday: $3.50 Bud Bud Lite Miller Lite Bottles and 16 oz drafts; Monday: $5 cheesesteaks (all day) late nite happy hour (8pm-close); Tuesday: $3.50 Coors Lite; Wednesday: 1/2 Price Wings (All Day) Late Nite Happy Hour (8p-Close); Thrusday: $5 burgers $1 salads (all day) late nite happy hour (8p-close) ", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04764519999999, 
+                    38.9059067
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1200 New Hampshire Ave NW Washington DC 20036", 
+                "Bar": "Grillfish", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm; (4-6pm on the patio)", 
+                "Specials": "Everyday: $5.50 specialty cocktails $4 rail drinks specific wine & beer deals $1.50-11 appetizers (including seafood) Monday:  $2 fish tacos $3.50 Rail Tamarind & Pom Margaritas; Tuesday: $6 tuna sliders $6 oyster sliders $9 Citrus Pear Martini; Wednesday: $1 raw or fried oysters $5 sparkling wine $6 Muscadet; Thursday: $8 mussels and homemade frites $5 Allagash White; Friday: $1 ray oysters $5 Prosecco $6 Moscato $7 Sparkling Rose; Saturday:  $6 shrimp cocktail $8 Ketel one oyster shooters; Sunday: $10 mini crab cakes $4 EatWell Bloody Marys", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0323027, 
+                    38.9297164
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3115 14th St. NW Washington DC 20010", 
+                "Bar": "Heights", 
+                "Days": "Everyday", 
+                "Hours": "3-7pm", 
+                "Specials": "$4-$8 appetizers $6 cocktails $4 rail liquors & hi-balls $6 call liquors & hi-balls specific beer & wine specials $22 pitchers ($5.50 glasses) of red or white sangria", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0379406, 
+                    38.9098157
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1633 P Street NW Washington DC 20036", 
+                "Bar": "Heritage India", 
+                "Days": "Monday-Friday", 
+                "Hours": "4:30-7:30pm", 
+                "Specials": "Monday-Wednesday: $4.50 Smirnoff martinis $2.75 domestics $4.75 rails/house wine; Monday and Tuesday 5-7pm: 1/2 price tapas; Wednesday 5-7pm: $5.50 glass of champagne; Thursday: $4.75 house wines $4 domestic bottle beers $4 craft beers $4.50 margaritas sangrias cocktails martinis specific tapas deals; Friday: $4.50 Smirnoff martinis $2.75 domestics $4.75 rails/house wine; from 5-7pm 1/2 price tapas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.019232, 
+                    38.899475
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "500 H Street NW Washington DC 20001", 
+                "Bar": "Irish Channel", 
+                "Days": "Everyday", 
+                "Hours": "3-7pm", 
+                "Specials": "Monday: $5.50 chicken tenders $4.25 Heineken drafts; Tuesday: $4.25 Estrella drafts $7.50 Channel burger w/ fries; Wednesday: $6 dips $5 IPAs; Thursday: $1 potato skins $4.25 Blue Moon; Friday: $3.75 Miller Light drafts; Saturday and Sunday: $4 vodka drinks", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.063478, 
+                    38.904919
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3218 M Street NW Washington DC 20007", 
+                "Bar": "J. Paul's", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$5 select cocktails $17 bucket o' beers (6) $3 select drafts $5 food specials", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0222721, 
+                    38.8959259
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "480 7th St NW Washington DC 20004", 
+                "Bar": "Jaleo", 
+                "Days": "Everyday except Wednesday Friday and Saturday", 
+                "Hours": "4:30-7pm", 
+                "Specials": "$4 tapas $4 wines $4 sangria $10-$14 cocktail specials $4 Estrella/Yuengling", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04442999999999, 
+                    38.909113
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1 Dupont Circle NW Washington DC 20036", 
+                "Bar": "James Hoban's", 
+                "Days": "Everyday", 
+                "Hours": "3p-close", 
+                "Specials": "Monday-Friday: $4 well drinks $5 classic mojitos $4 house wines $5 irish imported beer $4 domestic beer; Monday: $5 mojitos; Tuesday 7pm-close: $8 Stoli martinis; Wednesday 7pm-close:  1/2 price bottled wine $10 assorted cheese board; Saturday and Sunday 10:30am-3pm: $2 mimosas $3 bloody marys $3 Coronas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0097239, 
+                    38.897316
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "14 F St NW Washington DC 20001", 
+                "Bar": "Kelly's Irish Times", 
+                "Days": "Everyday", 
+                "Hours": "various", 
+                "Specials": "Monday all day: $3 Miller Light drafts; Tuesday all day: $1 off mixed drinks and imports: Wednesday all day: $4.50 16oz beer of the day $1.50 shot of the day; Thursday all day: $3 16oz PBR cans; Friday 4-7pm: $1 off mixed drinks and imports; Saturday 8-11pm: $15 all-you-can-drink Miller Light/Blue Moon; Sunday all day: $3 PBR tall boys", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.022204, 
+                    38.89925390000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "722 7th Street NW Washington DC 20001", 
+                "Bar": "La Tasca", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$4 sangria/drafts/house wines $6 cadillac sangria $18 sangria pitchers $22 caddilac pitcher $4 tapas", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0301602, 
+                    38.8983338
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1309 G Street NW Washignton DC 20005", 
+                "Bar": "Laughing Man", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-8p", 
+                "Specials": "$3.50 Miller Lite $4.50 Blue Moon Sam Adams & Yuengling $5.50 rails & house wine $7 select appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04136, 
+                    38.915314
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1835 18th Street NW Washington DC", 
+                "Bar": "Lauriol Plaza", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-7p", 
+                "Specials": "Margaritas $4.95 House Wine $3.95 Draft Beer and Sangria $3.50", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03718289999999, 
+                    38.9167315
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1602 U St NW Washington DC 20009", 
+                "Bar": "Local 16", 
+                "Days": "Everyday", 
+                "Hours": "5-8p", 
+                "Specials": "$5 beers cocktails rails wine and appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0315809, 
+                    38.91714450000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2001 14th Street NW Washington DC", 
+                "Bar": "Lost Society", 
+                "Days": "Tuesday-Thursday", 
+                "Hours": "5:30p-7:30p", 
+                "Specials": "1/2 off all drinks (excluding specialty cocktails) and prix-fixe menue ($25 per person)", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0030982, 
+                    38.8946187
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "201 Massachusetts Ave NE Washington DC", 
+                "Bar": "The 201 bar", 
+                "Days": "Monday-Friday", 
+                "Hours": "5pm-close", 
+                "Specials": "Everyday: $5 house wine; after 9pm: $6 flatbread pizzas & appetizers; Monday: $5 local drafts; Tuesday: $5 bourbon infusions; Wednesday: 1/2 price IPA/Pale Ale bottles; Thursday: $14 Goose Island 312 buckets; Friday: $5 Sweetwater drafts", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.041175, 
+                    38.906622
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1221 Connecticut AveWashington DC 20036", 
+                "Bar": "Lucky Bar", 
+                "Days": "Monday-Friday", 
+                "Hours": "3-8pm", 
+                "Specials": "Monday-Thursday $3.50 pints $4 rails $5 local craft beers; Monday: $ Yeungling rails & cocktails; Tuesday 5-11pm: 25 cent wings; Wednesday until close: $6.75 fish & chips baskets $14 pitchrs; Friday 3-10pm: $4 drafts and cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042689, 
+                    38.904021
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1823 L Street NW Washington DC 20036", 
+                "Bar": "Mackey's Pub", 
+                "Days": "Monday-Friday", 
+                "Hours": "12-7pm", 
+                "Specials": "Everyday: $3 Miller Lite drafts and Coors Light bottles $4 assorted bottles $4 rails and wines; Monday 4pm-close: $6 Build-your-own burgers $10 Sam Adam's Pitchers; Tuesday 4pm-close: $6 Chicken burritos $3.50 Corona Bottles; Wednesday 4pm-close: $8 nachos $5 margaritas; Thursday 4pm-close: $5 taquitos $5 select martinis", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0420457, 
+                    38.9079229
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1319 Connecticut Ave NW Washington DC 20036", 
+                "Bar": "Mad Hatter", 
+                "Days": "Everyday", 
+                "Hours": "4-8pm", 
+                "Specials": "Everyday: $3 rails $3 Miller lite & Yeungling $5 wine $4 Frozen mango margaritas $5 orange crushes $5 appetizers; Monday 5pm-close: 1/2 price botles of wine; Tuesday 8pm-close: 1/2 price drafts; Wednesday 8pm-close: $2 Coors light bottles $4 Stoli vodka drinks; Thursday 8pm-close: $1 beer night $5 Maker's Mark; Sunday 4pm-close: $4 draft beer", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0176506, 
+                    38.9025332
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "453 K Street NW Washington DC 20001", 
+                "Bar": "Mandu", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3 Mandu $3 drafts $4 Sojutinis $4 rails; Saturdays and Sundays 11am 4pm: $4 soju bloody marys", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0414505, 
+                    38.9143826
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1805 18th St NW Washington DC", 
+                "Bar": "Mandu", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "$3 Mandu $3 beer $4 Sojutinis $4 liquor drinks; Saturdays and Sundays 11am 4pm: $4 soju bloody marys", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0614045, 
+                    38.9029496
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3101 K St. NW Washington DC 20007", 
+                "Bar": "Mate", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "$6 cocktails $7 martinis $4 drafts $6 wines $4 appetizers $4 maki rolls $8 special rolls", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0521412, 
+                    38.903489
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2401 Pennsylvania Ave NW Washington DC 20037", 
+                "Bar": "McFadden's", 
+                "Days": "Monday-Thursday and Sunday", 
+                "Hours": "various", 
+                "Specials": "Monday: all night $1 sliders 25 cent wings $8 any beer pitchers; Tuesday 4-7pm: $1 cans $2 domestics $3 imports and crafts $5 bombs (with college ID); Wednesday and Sunday all day: 1/2 price burgers $12 beer buckets; Thursday all night: $5 Irish Car Bombs $10 Pots O'Gold", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0429894, 
+                    38.905914
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1831 M St NW Washington DC 20036", 
+                "Bar": "Mighty Pint", 
+                "Days": "Monday-Friday", 
+                "Hours": "4p-7p | 8pm-close", 
+                "Specials": "4-5pm: $1 drafts and 16oz cocktails; 5-7pm: $3 16oz drafts $5 16oz cocktails; Monday 8pm-close: $10 beer buckets and burger baskets; Tuesday 8pm-close: $2 Tacos $3 Coronas $5 Margs; Wednesday 8pm-close: $10 pitchers and $5 pierogies; Thursday 8pm-close: $2 drafts and rails with custom TMP cup; Friday 8pm-10pm: $2 call shots", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.06138500000002, 
+                    38.904952
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3104 M Street NW Washington D.C. 20007", 
+                "Bar": "Mr. Smith's", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "Monday-Friday: 1/2-price appetizers $2.50 rails $3 domestics/house wine $1 off beer pints; Monday 7pm-12am: $4 select martinis; Wednesday 4-9pm: $4 martinis $9 taco platter $3 Coronas $3 wings or nachos ; Thursday 7pm-1:30am: $3 Stella Artois $3 wings/nachos; Sunday 5pm-12pm: 1/2 price bottles of wine with dinner", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0134528, 
+                    38.8934122
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "237 2nd St NW Washington DC 20001", 
+                "Bar": "My Brother's Place", 
+                "Days": "Monday-Saturday", 
+                "Hours": "4-8p", 
+                "Specials": "Monday-Friday $2.50 Bud/Coors/Miller Light $3.50 Yuengling; Monday all day: 1/2-price appetizers $3 Amstel/Bud (all day); Tuesday all day: 1/2 price wine $3.25 Sam Adams; Wednesday all day: $3 Heineken $9 Yuengling Pitchers $4 GM Shooters; Thursday all day: $3.50 Sierra Nevada $4 Smirnoff cocktails; Friday 10pm-close: $2 light domestics; Saturday 12-9pm: $1 Coors Light $2 tacos $4 rails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0332116, 
+                    38.8955396
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1475 Pennsylvania Ave NW Washington DC 20004", 
+                "Bar": "Occidental", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-6pm", 
+                "Specials": "Various specials at the bar", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0451672, 
+                    38.911499
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1606 20th Street NW Washington DC 20009", 
+                "Bar": "One Lounge", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "$6-$8 appetizers $2-$6 select beers $6 rails $6 select wines $8 cocktail/martini specials", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04236720000002, 
+                    38.9059619
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1813 M St NW Washington DC 20036", 
+                "Bar": "Ozio", 
+                "Days": "Everyday", 
+                "Hours": "5-8pm", 
+                "Specials": "Monday-Friday: $6 Premium Martinis $5 Specialty Martinis $4 house wines $4 imported beers $4 House Liquors $7 Tapas; Saturday and Sunday: $6 Permium Martinis $4 house wines $4 imported beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.043036, 
+                    38.906653
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1225 19th St NW Washington DC 20036", 
+                "Bar": "Palm Restaurant", 
+                "Days": "Monday-Saturday", 
+                "Hours": "4:30-6:30pm", 
+                "Specials": "Monday Wednesday and Saturday: half price bar bites half price rails wines drafts; Tuesday $4.50 appetizers; Thursday: half off all Prime Bites beer wines by the glass and premium spirits; Friday $5.50 appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0323707, 
+                    38.9116302
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1612 14th Street NW Washington DC 20009", 
+                "Bar": "Pearl Dive", 
+                "Days": "Monday and Tuesday", 
+                "Hours": "4-7p", 
+                "Specials": "1/2 price draft beers $5 wine $7 martinis 2 for 1 local oysters shrimp po boy $8 pound of mussels $9", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04509589999999, 
+                    38.9098392
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2003 P St NW Washington DC 20036", 
+                "Bar": "Pizzeria Paradiso", 
+                "Days": "Tuesday and Wednesday", 
+                "Hours": "5-7pm", 
+                "Specials": "\"1/2-price drafts $9.95 all 8\"\" pizzas $15.50 all 12\"\" pizzas $5 all appetizers\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.06553699999999, 
+                    38.90522
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "3282 M St NW Washington DC 20007", 
+                "Bar": "Pizzeria Paradiso", 
+                "Days": "Tuesday and Wednesday", 
+                "Hours": "5-7pm", 
+                "Specials": "\"1/2-price drafts $9.95 all 8\"\" pizzas $15.50 all 12\"\" pizzas $5 all appetizers\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0321354, 
+                    38.9158193
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1904 14th St NW Washington DC 20009", 
+                "Bar": "Policy", 
+                "Days": "Monday-Saturday", 
+                "Hours": "5-8pm (5-7pm Saturdays)", 
+                "Specials": "$5 small plates $5 cocktails $5 wines $3/$5 beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0229504, 
+                    38.89668959999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "555 8th St NW Washington DC 20004", 
+                "Bar": "Poste Brasserie", 
+                "Days": "Monday", 
+                "Hours": "4-7pm", 
+                "Specials": "\"Monday Wednesday and Friday: $6 beers $7 spirits $8 sparkling $4-8 apps; Tuesday: $4-8 small plates $7 cocktails $5 beers; Thursday: $5 select wines $5 beers $5 \"\"truffled frites\"\"\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.00141479999999, 
+                    38.8863969
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "319 Pennsylvania Ave SE Washington DC", 
+                "Bar": "Pour House", 
+                "Days": "Monday", 
+                "Hours": "4-7pm", 
+                "Specials": "Everyday: $4 rails $3 Miller Lite/Yuengling; Monday: 4pm-close $12 Miller Lite buckets (5 each) wing bucket specials; Thursday: 4:30-8pm $5 Stolichnaya & flavors $5 select wines $5 Peroni; Friday 4-9pm $4 rails $2.75 Bud/Miller Yuengling ", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.022688, 
+                    38.8986362
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "775 G Street NW Washington DC 20001", 
+                "Bar": "Proof", 
+                "Days": "Monday-Friday", 
+                "Hours": "5:30-7pm", 
+                "Specials": "$5 wine $8 cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0419597, 
+                    38.9062657
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1214 B 18th St Washington DC 20036", 
+                "Bar": "Public Bar", 
+                "Days": "Monday-Thursday", 
+                "Hours": "various", 
+                "Specials": "Monday: 4-8pm $20 Corona buckets for 5 $5 burgers; Tuesday and Wednesday 11am-10pm $3 domestic $4 imports $5 rails; Thursday: 8p-close $3 house shots $4 Coronas $5 rail cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0419597, 
+                    38.9062657
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1214 B 18th St Washington DC 20036", 
+                "Bar": "Public Bar", 
+                "Days": "Monday-Thursday", 
+                "Hours": "various", 
+                "Specials": "Monday: 4-8pm $20 Corona buckets for 5 $5 burgers; Tuesday and Wednesday 11am-10pm $3 domestic $4 imports $5 rails; Thursday: 8p-close $3 house shots $4 Coronas $5 rail cocktails", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.042689, 
+                    38.904021
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1823 L St NW Washington DC 20036", 
+                "Bar": "Recessions", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-8pm", 
+                "Specials": "\"$5 appetizers $2 Miller Light bottles $3 rails $4 28-oz drafts $3 Coronas; Thursdays: $4 \"\"King Kong\"\" 28-oz drafts\"", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0222921, 
+                    38.9004282
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "810 7th St. NW Washington DC 20001", 
+                "Bar": "RFD", 
+                "Days": "Monday-Friday", 
+                "Hours": "3p-close", 
+                "Specials": "Monday: $4 for select hoppy beers 1/2-price burgers; Tuesday: until 8pm $4 beer specials; Wednesday and Thursday: until 8pm $4/$5 beer specials; Friday: until 7pm $4 each for 3 drafts", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0222921, 
+                    38.9004282
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "810 7th St. NW Washington DC 20001", 
+                "Bar": "RFD", 
+                "Days": "Monday-Friday", 
+                "Hours": "3p-close", 
+                "Specials": "Monday: $4 for select hoppy beers 1/2-price burgers; Tuesday: until 8pm $4 beer specials; Wednesday and Thursday: until 8pm $4/$5 beer specials; Friday: until 7pm $4 each for 3 drafts", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    121.0625934, 
+                    14.3428575
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": " Wednesday", 
+                "Bar": "Rocket Bar", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "\"Monday", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0438984, 
+                    38.9048838
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1136 19th St NW Washington DC 20036", 
+                "Bar": "Science Club", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-8pm", 
+                "Specials": "Everyday: $3 Yuengling $4 Guinness/Amstel Light/PBR $4 regular liquor $5/$20 select wine; Wednesday: $3-4 select beers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    121.062677, 
+                    14.3422776
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": " Tuesday", 
+                "Bar": "Sequoia", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "\"Everyday: $5 specialty cocktails $3 drafts $1 oysters; Monday", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04277990000001, 
+                    38.9059219
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1825 M Street NW Washington DC 20036", 
+                "Bar": "Sign of the Whale", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "Monday: $2 Bud Light Mugs and $3 All other draft Mugs; Tuesday: half price beer/wine/liquor 7-10pm $10 beer pitchers and 2-for-1 appetizers; Wednesday: Half price beer/wine/liquor; Thursday:$2 Bud/Bud Light  $3 Coronoa/Red Stripe; Friday: Half price beer/wine liquor; Everyday: $4-6 appetizers", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0237314, 
+                    38.8955492
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "401 9th Street NW Washington DC 20004", 
+                "Bar": "Social Reform", 
+                "Days": "Monday-Friday", 
+                "Hours": "4:30-7pm", 
+                "Specials": "Monday: $4.50 all drafts $7 all rails $9 house martinis $7 featured wines $3 sliders $7 burgers; Tuesday-Friday: $5 drafts $7 cocktails $8 house wines $9 martinis; Daily food specials", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0272289, 
+                    38.9168446
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1942 11th St NW Washington DC", 
+                "Bar": "Solly's Tavern", 
+                "Days": "Monday-Friday", 
+                "Hours": "Open-8pm", 
+                "Specials": "$3-$5 beers (PBR Miller lite Budwiser) $5 Jack Daniel's all house liquors $4", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.00268849999999, 
+                    38.8869399
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "223 Pennsylvania Ave SE Washington DC 20003", 
+                "Bar": "Sonoma", 
+                "Days": "Tuesday-Friday", 
+                "Hours": "4:30-7:30pm", 
+                "Specials": "Tuesday and Friday: $5 wines cocktails and $3 beers; Wednesday and Thursday: $5 red & white wine $5 sparkling wine $4 draft beer $7 seasonal cocktail $4 draft beer & assorted seasonal small plates for $9/$14/$19", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0421159, 
+                    38.908321
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1337 Connecticut Avenue NW Washington DC", 
+                "Bar": "The Gryphon", 
+                "Days": "Tuesday-Friday", 
+                "Hours": "5-8pm", 
+                "Specials": "$5 wine $3-6 beer $5-9 food", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0061578, 
+                    38.8975799
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "50 Massachusetts Ave NE Washington DC 20002", 
+                "Bar": "Thunder Grill", 
+                "Days": "Monday-Friday", 
+                "Hours": "3:30-7:30pm", 
+                "Specials": "$2.75 Miller Lite/Thunder Amber $3.75 rails $4.75 margaritas $4 wings/nachos/quesadilla", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0704882, 
+                    38.9060732
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1226 36th St NW Washington DC 20007", 
+                "Bar": "Tombs", 
+                "Days": "Everyday", 
+                "Hours": "10pm-close", 
+                "Specials": "Monday: $3 Bourbon drinks $2 Natty Boh; Tuesday: $8 Coors Light pitchers; Wednesday: $12 Blue Moon pitchers $4 shot of the day; Thursday: $3 vodka drinks $4 shot of the day; Friday and Saturday: $4 Jameson shots 10pm-12am; Sunday: $10 wine bottles 5pm-12am", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0463747, 
+                    38.8983082
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2036 G Street NW Washington DC 20036", 
+                "Bar": "Tonic", 
+                "Days": "Monday-Friday", 
+                "Hours": "4-7pm", 
+                "Specials": "$4 drafts $4 bottles $4 house wines $4 tater tots $6 nachos 66 cent wings", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.028655, 
+                    38.916738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1214 U Street Northwest Washington DC 20009", 
+                "Bar": "Ulah Bistro", 
+                "Days": "Everyday", 
+                "Hours": "4-7pm", 
+                "Specials": "Monday-Friday: $5 Red and White Wine; $2 Bud & Bud Light; $3 Sam Light; $3.50 Ulah Lager; $3.50 House Liquor; Saturday: 10am-3pm $5 Mimosas and Irish Coffee; Sunday: 10am-3pm: $5 Mimosas and Irish Coffee; 11pm-close: $5 Red and White Wine; $2 Bud & Bud Light; $3 Sam Light; $3.50 Ulah Lager; $3.50 House Liquor", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0030982, 
+                    38.8946187
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "201 Massachusetts Ave NE Washington DC 20002", 
+                "Bar": "Union Pub", 
+                "Days": "Everyday", 
+                "Hours": "all night", 
+                "Specials": "Mondays: $5 Devil's Backbone drafts $4 Craft vodkas $5 All wine; Tuesays: $12 Bud Light pitchers $4 Small Batch bourbon $5 vintage local drafts; Wednesdays: $8 Bud/Bud Light buckets $4 Moonshine Cocktaions; Thursdays: $12 Bud Light pitchers $4 Jack Daniels $5 Widmeres; Fridays: $3 rail drinks $5 Art in the Age cocktails/Goose Island/Craft tequila; Saturdays and Sundays: $3.50 rails $1 off craft bottles $12 Bud Light buckets", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.04743289999999, 
+                    38.9097817
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "2121 P St NW Washington DC 20037", 
+                "Bar": "Urbana", 
+                "Days": "Monday", 
+                "Hours": "4-7pm", 
+                "Specials": "$4 Yuengling/Peroni $6 select wines/sparklers $8 pizzas $1 oysters; Wednesdays: $6 Absolut mixed drinks $7 specality cocktail ", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0273504, 
+                    38.9167993
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1940 11th St NW Washington DC 20001", 
+                "Bar": "Vinoteca", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-7pm", 
+                "Specials": "Mondays and Thursdays: $4-$7 appetizers $5 crostinis $8 sliders $5 all wines; Tuesdays and Fridays: $5 select wines and small plate specials; Wednesdays: $5 glass $6 sangria by the glass ($24 for a pitcher) $4-9 small plates", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02176659999999, 
+                    38.8995296
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "781 7th St NW Washington DC 20001", 
+                "Bar": "Zengo", 
+                "Days": "Monday-Friday", 
+                "Hours": "5-8pm", 
+                "Specials": "$5 Latin-Asian cocktails $5 small plates; Thursdays and Fridays: $5 wine $4 select beer", 
+                "marker-symbol": "bar"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
