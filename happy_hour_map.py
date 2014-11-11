@@ -2,12 +2,12 @@ import time
 from geopy.geocoders import GoogleV3
 geolocator=GoogleV3()
 
-def csv_to_dict(filename,delimiter=","):
+def csv_to_dict(Ohio_Courthouses,delimiter=","):
 	'''
 	A function that opens a csv file and turns it into a nested dictionary 
 	with items in each row as a dictionary.
 	'''
-	with open(filename,'r') as csvfile:
+	with open(mapping_sample_OH_courthouses,'r') as csvfile:
 		rows=csvfile.read().splitlines()
 
 		for index, row in enumerate(rows):
@@ -28,18 +28,18 @@ def csv_to_dict(filename,delimiter=","):
 
 	return nestdict
 
-bars=csv_to_dict("happy_hours.csv",",")
+courts=csv_to_dict("mapping_sample_OH_courthouses.csv",",")
 
 resources=[]
 
-for key in bars:
+for key in courts:
 	time.sleep(1)
 	try:
-		address, (latitude, longitude) = geolocator.geocode(bars[key]["Address"])
+		address, (latitude, longitude) = geolocator.geocode(courts[key]["FullAddress"])
 	#print bars[key]["Address"]
 		#print address, latitude, longitude
 	except:
-		print "Unable to find location for ", bars[key]["Name"]
+		print "Unable to find location for ", courts[key]["Name"]
 
 	else: 
 		item={
@@ -53,11 +53,11 @@ for key in bars:
       		},
       		"properties": {
         		"marker-symbol": "bar",
-        		"name": bars[key]["Name"],
-        		"address": bars[key]["Address"],
-        		"day": bars[key]["Day"],
-        		"hours": bars[key]["Time"],
-        		"specials": bars[key]["Details"]
+        		"name": courts[key]["Name"],
+        		"address": courts[key]["Address"],
+        		"day": courts[key]["Day"],
+        		"hours": courts[key]["Time"],
+        		"specials": courts[key]["Details"]
       		}
     	}
     	resources.append(item)
@@ -70,6 +70,6 @@ geo={
 
 import json
 
-with open("happy_hours.json","w") as jsonfile:
+with open("ohio_court_addresses.json","w") as jsonfile:
 	jsonfile.write(json.dumps(geo, indent=4,sort_keys=True))
 	
