@@ -1,0 +1,271 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.5176915, 
+                    41.0849284
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "2 South Main Street ", 
+                "city": "Akron", 
+                "jurisdiction": "N.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "John F. Seiberling Federal Building & U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "44308"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3770606, 
+                    40.7988285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": " Canton Ohio 2011 10 17.jpg\"", 
+                "city": "201 Cleveland Avenue S.", 
+                "jurisdiction": "201 Cleveland Avenue S. Canton Ohio 44702", 
+                "marker-symbol": "bar", 
+                "name": "Frank T. Bow Federal Building & U.S. Courthouse", 
+                "state": "Canton", 
+                "zip": "Ohio"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.3770606, 
+                    40.7988285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": " Canton Ohio 2011 11 04.jpg\"", 
+                "city": "401 McKinley Avenue SW", 
+                "jurisdiction": "401 McKinley Avenue SW Canton Ohio 44702", 
+                "marker-symbol": "bar", 
+                "name": "Ralph Regula Federal Building & U.S. Courthouse", 
+                "state": "Canton", 
+                "zip": "Ohio"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.510981, 
+                    39.101732
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "100 East Fifth Street", 
+                "city": "Cincinnati", 
+                "jurisdiction": "S.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "U.S. Custom House and Post Office", 
+                "state": "Ohio", 
+                "zip": "45202"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.510981, 
+                    39.101732
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "100 East Fifth Street", 
+                "city": "Cincinnati", 
+                "jurisdiction": "S.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Potter Stewart U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "45202"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.5656379, 
+                    41.6056979
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": " Cleveland.jpg\"", 
+                "city": "201 Superior Street", 
+                "jurisdiction": "201 Superior Street Cleveland Ohio 43460", 
+                "marker-symbol": "bar", 
+                "name": "Howard M. Metzenbaum U.S. Courthouse", 
+                "state": "Cleveland", 
+                "zip": "Ohio"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.69726419999999, 
+                    41.4961829
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "801 West Superior Avenue", 
+                "city": "Cleveland", 
+                "jurisdiction": "N.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Carl B. Stokes Federal Court House Building", 
+                "state": "Ohio", 
+                "zip": "44113"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0092803, 
+                    39.9602601
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": " Columbus.jpg\"", 
+                "city": "121 East State Street", 
+                "jurisdiction": "121 East State Street Columbus Ohio 43215", 
+                "marker-symbol": "bar", 
+                "name": "U.S. Court House and Post Office", 
+                "state": "Columbus", 
+                "zip": "Ohio"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.005219, 
+                    39.9638739
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "85 Marconi Blvd.", 
+                "city": "Columbus", 
+                "jurisdiction": "S.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Joseph P. Kinneary U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "43215"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.1959, 
+                    39.759566
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "200 W. Second Street", 
+                "city": "Dayton", 
+                "jurisdiction": "S.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Federal Bldg & U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "45402"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.53609399999999, 
+                    41.657565
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "1716 Spielbusch", 
+                "city": "Toledo", 
+                "jurisdiction": "N.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "James M. Ashley & Thomas W.L. Ashley U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "43604"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.6483062, 
+                    41.1009118
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "10 East Commerce Street", 
+                "city": "Youngstown", 
+                "jurisdiction": "N.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Nathaniel R. Jones Federal Building & U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "44503"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.649818, 
+                    41.0983919
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "125 Market Street", 
+                "city": "Youngstown", 
+                "jurisdiction": "N.D. Ohio", 
+                "marker-symbol": "bar", 
+                "name": "Thomas D. Lambros Federal Building & U.S. Courthouse", 
+                "state": "Ohio", 
+                "zip": "44503"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.909826, 
+                    39.98560690000001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": " Zanesville-2.jpg\"", 
+                "city": "65 South Fifth Street", 
+                "jurisdiction": "65 South Fifth Street Zanesville Ohio 43701", 
+                "marker-symbol": "bar", 
+                "name": "U.S. Post Office & Federal Building", 
+                "state": "Zanesville", 
+                "zip": "Ohio"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
